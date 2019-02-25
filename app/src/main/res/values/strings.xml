@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Expandable List View</string>
+
+    <string-array name="heading_items">
+        <item>EA Sports</item>
+        <item>Gameloft</item>
+        <item>Rockstar Games</item>
+    </string-array>
+
+    <string-array name="h1">
+        <item>Apex Legends</item>
+        <item>Cricket 2007</item>
+        <item>Fifa 2018</item>
+    </string-array>
+
+    <string-array name="h2">
+        <item>Asphalt 8</item>
+        <item>Spiderman Unlimited</item>
+        <item>Modern Combat 5</item>
+        <item>Gangster Vegas</item>
+    </string-array>
+
+    <string-array name="h3">
+        <item>GTA 5</item>
+        <item>Max Payne</item>
+        <item>Bully</item>
+    </string-array>
+
+
+</resources>
